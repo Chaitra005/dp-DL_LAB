@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('Email Subject Generator')
 
-st.write('Hello world!')
+st.info('This generates a subject for given mail ')
